@@ -63,6 +63,7 @@ public class NuevoUsuario extends javax.swing.JFrame {
         BtnVolver = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setTitle("Nuevo Usuario");
 
         jPanel1.setBackground(new java.awt.Color(235, 240, 250));
         jPanel1.setToolTipText("");

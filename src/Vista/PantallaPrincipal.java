@@ -43,6 +43,7 @@ public class PantallaPrincipal extends javax.swing.JFrame {
         BtnVolver = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setTitle("Pantalla Principal - Sistema de almacen");
 
         jPanel1.setBackground(new java.awt.Color(235, 240, 250));
 

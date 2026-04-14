@@ -132,6 +132,7 @@ public class Usuarios extends javax.swing.JFrame {
         jButton4 = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setTitle("Usuarios - Sistema de almacen");
 
         jPanel1.setBackground(new java.awt.Color(235, 240, 250));
 
